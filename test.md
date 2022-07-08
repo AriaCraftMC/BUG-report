@@ -1,3 +1,3 @@
-[^_^]:
-    commentted-out contents
-    should be shift to right by four spaces (`>>`).
+/*:
+这是一段注释
+*/
